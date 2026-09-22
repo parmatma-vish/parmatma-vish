@@ -132,38 +132,6 @@ Creating user-friendly interfaces with modern design principles.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=parmatma-vish&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmatma-vish&layout=compact&hide_border=true&title_color=2563EB&langs_count=8" height="170"/>
-
-</p>
-
----
-
-## Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=parmatma-vish&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="70%"/>
-
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parmatma-vish&theme=minimal&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</p>
-
----
-
 ## Development Focus
 
 <table>
@@ -174,20 +142,6 @@ Creating user-friendly interfaces with modern design principles.
 <td align="center">🗄️<br><b>Database</b><br>MongoDB & MySQL</td>
 </tr>
 </table>
-
----
-
-## Learning Progress
-
-```text
-MERN Stack       ████████████████████  100%
-React.js         ██████████████████░░   90%
-JavaScript       ██████████████████░░   90%
-Node.js          ████████████████░░░░   80%
-MongoDB          ████████████████░░░░   80%
-DSA              ██████████████░░░░░░   70%
-UI / Animation   ███████████████░░░░░   75%
-```
 
 ---
 
@@ -215,15 +169,6 @@ I believe in learning through practical projects, solving real problems and cont
 ---
 
 ## Let's Connect
-
-<p align="center">
-
-<a href="mailto:parmatmavish7983@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Connect-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
 <p align="center">
   <sub>Thanks for visiting my profile.</sub>
 </p>
